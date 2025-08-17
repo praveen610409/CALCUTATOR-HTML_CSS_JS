@@ -8,3 +8,7 @@
   #### - Buttons for digits (0–9), operations (+, −, ×, ÷), and control (C, =)
   #### - Real-time display of input and results
   #### - JavaScript logic to handle calculations and input validation
+
+# Output:-
+
+![image](calculator.png)
